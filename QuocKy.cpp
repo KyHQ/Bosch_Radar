@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 jkadjkdasfkd
 asdjkjkd
 asddfsd
@@ -14,3 +15,5 @@ sdfsdsdf
 asdaas
 asdsa
 asds
+=======
+>>>>>>> parent of 75ade5e (add file QuocKy.cpp)
